@@ -32,6 +32,3 @@ m_max = 2/sqrt(3); %maxium modulation index
 u_d = -0.8*(U_DC/2*m_max); %d-voltage command
 u_q = 0.5*(U_DC/2*m_max); %q-voltage command
 
-
-
-
